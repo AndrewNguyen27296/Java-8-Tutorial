@@ -1,7 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<aop-reference-model>
-<aop-project name="BoostPlatformMyPage"/>
-<aop-project name="BoostPlatformOauthApi"/>
-<aop-project name="BoostPlatformPortal"/>
-<aop-project name="BoostPlatformAssest"/>
-</aop-reference-model>
+<aop-reference-model/>

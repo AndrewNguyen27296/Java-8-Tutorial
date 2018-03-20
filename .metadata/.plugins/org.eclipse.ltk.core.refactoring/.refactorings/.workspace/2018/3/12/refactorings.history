@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 8 resources" deleteContents="false" description="Delete 8 resources" element1="/BoostPlatformAdmin" element2="/BoostPlatformAssest" element3="/BoostPlatformCommon" element4="/BoostPlatformDao" element5="/BoostPlatformMyPage" element6="/BoostPlatformOauthApi" element7="/BoostPlatformPortal" element8="/Servers" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="8" stamp="1521512698009"/>
+</session>
