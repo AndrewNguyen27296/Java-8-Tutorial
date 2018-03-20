@@ -346,6 +346,25 @@ IEclipsePreferences#com-dubture-twig-ui {
 		'editorColorLineComment=#C7DD0C | null | null | false | null | null'
 		'editorColorNumber=#7FB347 | null | null | null | null | null'
 }
+IEclipsePreferences#com-genuitec-eclipse-typescript {
+	preferences:
+		'content_assist_proposals_background=52,57,61'
+		'content_assist_proposals_foreground=238,238,238'
+		'hover_background=52,57,61'
+		'hover_foreground=238,238,238'
+		'syntaxColoring.bracket.color=216,216,216'
+		'syntaxColoring.comment.color=199,221,12'
+		'syntaxColoring.identifier.color=216,216,216'
+		'syntaxColoring.keyword.color=141,203,226'
+		'syntaxColoring.numberLiteral.color=127,179,71'
+		'syntaxColoring.operator.color=216,216,216'
+		'syntaxColoring.punctuation.color=216,216,216'
+		'syntaxColoring.regExpLiteral.color=255,198,0'
+		'syntaxColoring.specialKeyword.color=217,127,55'
+		'syntaxColoring.stringLiteral.color=255,198,0'
+		'syntaxColoring.todo.color=217,229,119'
+		'ts_default=216,216,216'
+}
 IEclipsePreferences#com-github-rustdt-ide-ui {
 	preferences:
 		'editor.coloring2.number#dark#=127,179,71'
@@ -2698,6 +2717,12 @@ IEclipsePreferences#org-sweetlemonade-eclipse-json {
 		'colorNullEnabled=true'
 		'colorStringStyle=0'
 		'colorNumberEnabled=true'
+}
+IEclipsePreferences#ts-eclipse-ide-angular2-ui {
+	preferences:
+		'angular2DirectiveName=#7FB347 | null | null | null | null | null'
+		'angular2Expression=#D25252 | null | false | null | false | false'
+		'angular2ExpressionBorder=#FFFFFF | null | null | null | null | null'
 }
 IEclipsePreferences#winterwell-markdown {
 	preferences:
