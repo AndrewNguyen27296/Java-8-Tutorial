@@ -1,5 +1,9 @@
 package com.infotech;
 
+import java.util.ArrayList;
+import java.util.List;
+import java.util.function.Consumer;
+
 public class ClientTest {
 	public static void main(String[] args) {
 		
@@ -7,7 +11,16 @@ public class ClientTest {
 		//		createThreadUsingAnonymousClass();
 		
 		//CREATE USING LAMBDA CLASS
-				createUsingLambdaExpression();
+		//		createUsingLambdaExpression();
+				
+		List<String> nameList = new ArrayList<>();
+		nameList.add("Thien Nguyen");
+		nameList.add("Quang Nguyen");
+		nameList.add("Trong Nguyen");
+		
+		//nameList.forEach((name) ->  {System.out.println(name);});
+		nameList.forEach(System.out::println);
+		
 	}
 
 	private static void createUsingLambdaExpression() {
