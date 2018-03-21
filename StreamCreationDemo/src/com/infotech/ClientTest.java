@@ -25,9 +25,7 @@ public class ClientTest {
 		list.add("Thien");
 		list.add("Quang");
 		list.add("Tien");
-		
 		Stream<String> stream2 = list.stream();
-		
 		stream2.forEach(System.out::println);
 	
 	}	
