@@ -42,6 +42,8 @@ public class LocalDateTest {
 		//Minus number of day
 		LocalDate localDate7 = localDate5.minus(2, ChronoUnit.DAYS);
 		System.out.println(localDate7);
+		
+		
 	}
 
 }
