@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.infotech.MyInterface1"/>
-<fullyQualifiedTypeName name="org.omg.Messaging.SyncScopeHelper"/>
-<fullyQualifiedTypeName name="com.infotech.model.MyThread"/>
-<fullyQualifiedTypeName name="java.lang.Thread"/>
-<fullyQualifiedTypeName name="com.infotech.MyInterface"/>
-<fullyQualifiedTypeName name="com.infotech.MyInterface2"/>
-<fullyQualifiedTypeName name="com.infotech.MyInterface3"/>
-<fullyQualifiedTypeName name="infotech.com.MyInterface"/>
-<fullyQualifiedTypeName name="com.infotech.model.Student"/>
-<fullyQualifiedTypeName name="com.infotech.client.MyConsumer"/>
-<fullyQualifiedTypeName name="java.util.HashMap"/>
-<fullyQualifiedTypeName name="java.util.Map.Entry"/>
-<fullyQualifiedTypeName name="com.infotech.model.Employee"/>
-<fullyQualifiedTypeName name="com.infotech.model.EmployeeNameSorter"/>
 <fullyQualifiedTypeName name="java.util.Comparator"/>
 <fullyQualifiedTypeName name="com.infotech.test.MyComparator"/>
 <fullyQualifiedTypeName name="java.util.concurrent.ExecutorService"/>
@@ -36,7 +22,6 @@
 <fullyQualifiedTypeName name="java.util.stream.Stream.Builder"/>
 <fullyQualifiedTypeName name="java.util.stream.DoubleStream"/>
 <fullyQualifiedTypeName name="java.util.Random"/>
-<fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="java.nio.file.Paths"/>
 <fullyQualifiedTypeName name="java.nio.file.Path"/>
 <fullyQualifiedTypeName name="java.io.IOException"/>
@@ -51,8 +36,28 @@
 <fullyQualifiedTypeName name="java.util.Map"/>
 <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
 <fullyQualifiedTypeName name="java.util.Collections"/>
-<fullyQualifiedTypeName name="java.util.Set"/>
 <fullyQualifiedTypeName name="java.util.stream.Collector"/>
 <fullyQualifiedTypeName name="java.util.stream.Stream"/>
 <fullyQualifiedTypeName name="java.util.stream.IntStream"/>
+<fullyQualifiedTypeName name="java.time.Clock"/>
+<fullyQualifiedTypeName name="com.infotech.localdatetime.LocalDateTimeTest"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="com.infotech.zoneddatetime.ZonedDateTimeTest"/>
+<fullyQualifiedTypeName name="java.time.ZonedDateTime"/>
+<fullyQualifiedTypeName name="java.time.ZoneOffset"/>
+<fullyQualifiedTypeName name="java.time.OffsetDateTime"/>
+<fullyQualifiedTypeName name="java.time.Period"/>
+<fullyQualifiedTypeName name="java.time.temporal.ChronoUnit"/>
+<fullyQualifiedTypeName name="java.time.Duration"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.time.ZoneId"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.time.LocalTime"/>
+<fullyQualifiedTypeName name="java.time.LocalDate"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+<fullyQualifiedTypeName name="java.time.Month"/>
+<fullyQualifiedTypeName name="java.time.format.DateTimeFormatter"/>
+<fullyQualifiedTypeName name="java.time.format.FormatStyle"/>
+<fullyQualifiedTypeName name="java.util.Locale"/>
 </qualifiedTypeNameHistroy>
