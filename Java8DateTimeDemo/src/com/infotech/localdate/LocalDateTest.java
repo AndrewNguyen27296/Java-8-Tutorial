@@ -12,38 +12,37 @@ import java.time.temporal.ChronoUnit;
 public class LocalDateTest {
 
 	public static void main(String[] args) {
-		//LocalDate format is yyyy-MM-dd used for birthday & payday 
-		LocalDate localDate = LocalDate.now();
-		System.out.println(localDate);
-		
-		//Print systemDefaultZone
+		// LocalDate format is yyyy-MM-dd used for birthday & payday
+		LocalDate localDate1 = LocalDate.now();
+		System.out.println(localDate1);
+
+		// Print systemDefaultZone
 		Clock clock = Clock.systemDefaultZone();
 		LocalDate localDate2 = LocalDate.now(clock);
 		System.out.println(localDate2);
 
-		//Print zoneTime
+		// Print zoneTime
 		ZoneId zoneId = ZoneId.of("Europe/Paris");
 		LocalDate localDate3 = LocalDate.now(zoneId);
 		System.out.println(localDate3);
-		
-		//Set localDate
+
+		// Set localDate
 		System.out.println("-------------------------------------");
 		LocalDate localDate4 = LocalDate.of(2017, 03, 02);
 		System.out.println(localDate4);
-		
-		//Parse localDate
+
+		// Parse localDate
 		LocalDate localDate5 = LocalDate.parse("2018-05-04");
 		System.out.println(localDate5);
-		
-		//Plus number of day
+
+		// Plus number of day
 		LocalDate localDate6 = localDate5.plusDays(2);
 		System.out.println(localDate6);
-		
-		//Minus number of day
+
+		// Minus number of day
 		LocalDate localDate7 = localDate5.minus(2, ChronoUnit.DAYS);
 		System.out.println(localDate7);
-		
-		
+
 	}
 
 }
