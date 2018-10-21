@@ -11,3 +11,24 @@ These instructions will get you a copy of the project up and running on your loc
 
 Eclipse latest version
 Java 8 JDK downloaded from Oracle on your local machine
+
+### Installing
+
+This code contain all the new features and example for Java 8.
+Pull this project to your computer and study
+
+## Built With
+
+This project contains core Java
+
+## Authors
+
+* **Andrew Nguyen** - *Initial work* - (https://github.com/xinkachu)
+
+## License
+
+Open license
+
+## Acknowledgments
+
+* Hat tip to Telusko youtube channel - (https://www.youtube.com/user/javaboynavin) for guide
